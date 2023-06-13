@@ -12,8 +12,6 @@
     git branch -M main
     git remote add origin https://github.com/hyun52/script.git
     git push -u origin main
-    # github perpetual code
-    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
 
 ## …or push an existing repository from the command line
     git remote add origin https://github.com/hyun52/script.git
